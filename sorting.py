@@ -1,5 +1,4 @@
 #!/bin/python3
-import random
 '''
 Python provides built-in sort/sorted functions that use timsort internally.
 You cannot use these built-in functions anywhere in this file.
